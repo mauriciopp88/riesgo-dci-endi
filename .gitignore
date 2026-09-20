@@ -1,0 +1,12 @@
+*.dta
+*.sav
+data/
+datos/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+*:Zone.Identifier
