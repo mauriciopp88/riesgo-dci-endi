@@ -1,0 +1,13 @@
+indicador,valor
+Pares carné-encuesta,4761
+"Sesgo sistemático (diferencia media, carné − encuesta), DE",0.388
+"Error aleatorio (DE de la diferencia), DE",0.755
+"Límite inferior de concordancia del 95%, DE",-1.09
+"Límite superior de concordancia del 95%, DE",1.87
+Correlación entre ambas mediciones,0.799
+"Sensibilidad para DCI, sin corregir",0.553
+"Especificidad para DCI, sin corregir",0.971
+"Sensibilidad para DCI, tras corregir el sesgo",0.759
+"Especificidad para DCI, tras corregir el sesgo",0.9
+"Sesgo en mediciones del carné hasta los 18 meses (n = 3584), DE",0.45
+"Diferencia media en pares con un mes o menos entre mediciones (n = 1765), DE",0.317

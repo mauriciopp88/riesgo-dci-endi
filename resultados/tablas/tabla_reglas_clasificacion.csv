@@ -1,0 +1,8 @@
+regla,marcados,vp,fp,fn,vn,sens,espec,vpp
+"Última medición Z < -2, sin corregir",0.144,226,71,239,1521,0.486,0.955,0.761
+"Última medición Z < -2, corregida",0.284,327,258,138,1334,0.703,0.838,0.559
+"Alguna medición Z < -2, sin corregir",0.257,304,225,161,1367,0.654,0.859,0.575
+"Alguna medición Z < -2, corregida",0.426,394,483,71,1109,0.847,0.697,0.449
+"Modelo, p >= 0.20",0.367,379,375,86,1217,0.815,0.764,0.503
+"Modelo, p >= 0.315 (misma proporción que la regla 2)",0.284,343,242,122,1350,0.738,0.848,0.586
+"Modelo, p >= 0.146 (misma proporción que la regla 4)",0.426,406,471,59,1121,0.873,0.704,0.463

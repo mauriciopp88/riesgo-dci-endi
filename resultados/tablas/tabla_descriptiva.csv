@@ -1,0 +1,21 @@
+caracteristica,categoria,valor
+Sexo,Masculino,0.509
+,Femenino,0.491
+"Edad al resultado, media (DE)",Meses,31.9 (5.2)
+Área de residencia,Urbana,0.523
+,Rural,0.477
+Etnia,Mestiza,0.817
+,Indígena,0.124
+,Afroecuatoriana,0.031
+,Montubia,0.02
+,Blanca,0.007
+Instrucción de la madre,Básica,0.273
+,Media,0.5
+,Superior,0.227
+Tipo de nacimiento,"A término, AEG",0.763
+,"A término, PEG",0.076
+,"Prematuro, AEG",0.053
+,"Prematuro, PEG",0.005
+,Sin dato,0.103
+"Mediciones del carné hasta los 18 meses, media (DE)",Número,6.9 (3.1)
+Prevalencia de DCI a los 24-42 meses,,0.226
