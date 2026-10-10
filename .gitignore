@@ -1,12 +1,15 @@
-*.dta
-*.sav
-data/
-datos/
+# microdatos de la ENDI (no se redistribuyen)
+datos/*
+!datos/README.md
+!datos/lms_talla_edad_oms.csv
+
+# datos individuales derivados (sin identificadores, pero no se publican por defecto)
+resultados/datos/
+
+# entornos, cachés y archivos temporales
+.venv/
+venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.venv/
-venv/
-*.egg-info/
 .DS_Store
-*:Zone.Identifier
