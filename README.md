@@ -105,10 +105,4 @@ real es mayor en los niños más pequeños y de menor talla.
 
 ## Privacidad
 
-El repositorio no contiene microdatos. Los archivos exportados no tienen identificadores: el conglomerado se
-recodifica como un índice. Aun así, `resultados/datos/`, con datos individuales derivados, queda fuera del
-control de versiones por defecto (`.gitignore`).
-
-## Cómo citar
-
-[Se completará cuando el artículo asociado esté publicado.]
+Los microdatos de la ENDI no se incluyen en el repositorio. Los resultados publicados aquí son agregados; las predicciones a nivel de niño no se versionan.
